@@ -25,7 +25,7 @@ Or, the **Environments** page:
 
 In addition to downloading logs through the UI, logs will be available through the API and the Command Line Interface. 
 
-For example, to download the log files for a specific environment, the command would be something alone the lines of
+For example, to download the log files for a specific environment, the command would be something along the lines of
 
 ```java
 $ aio cloudmanager:download-logs --programId 5 1884 author aemerror
