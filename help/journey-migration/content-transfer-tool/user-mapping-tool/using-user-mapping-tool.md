@@ -79,7 +79,7 @@ The User Mapping Tool is integrated into the Content Transfer Tool. You can down
    ![image](/help/journey-migration/content-transfer-tool/assets-user-mapping/user-mapping-landing5.png)
 
    >[!IMPORTANT]
-   >* Once User Mapping is complete, you can navigate back to Content Migration page using the breadcrumb. The User Mapping card displays the status and timestamp. Click on **Content Transfer** to create a migration Set to run extraction. Refer to [Running the Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html?lang=en#running-tool) for more details.
+   >* Once User Mapping is complete, you can navigate back to Content Migration page using the breadcrumb. The User Mapping card displays the status and timestamp. Click on **Content Transfer** to create a migration Set to run extraction. Content Extraction followed by the Ingestion steps are required after completing the User Mapping to migrate the mapping information into target cloud service instance. Refer to [Running the Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html?lang=en#running-tool) for more details.
 
 ### Resuming the User Mapping Process {#resume-user-mapping-process}
 
